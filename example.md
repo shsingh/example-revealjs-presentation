@@ -1,4 +1,4 @@
-# [shsingh revealjs - example demo site](https://github.com/shsingh/example_revealjs_presentation)
+# [shsingh reveal.js - example demo site](https://github.com/shsingh/example_revealjs_presentation)
 
 ===
 
