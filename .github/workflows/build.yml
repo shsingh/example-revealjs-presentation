@@ -28,4 +28,4 @@ jobs:
     # Runs a set of commands using the runners shell
       - name: Create static site from Markdown
         run: |
-          docker run --rm -v $(pwd):/slides webpronl/reveal-md:latest example.md --static docs
+          docker run --rm -v $(pwd):/slides $(pwd)/docs:/docs webpronl/reveal-md:latest example.md --static docs
